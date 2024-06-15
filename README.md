@@ -10,3 +10,4 @@
 [![jupyter_app_launcher](https://github-readme-stats.vercel.app/api/pin/?username=trungleduc&repo=jupyter_app_launcher&theme=dracula&show_owner=true)](https://github.com/trungleduc/jupyter_app_launcher)
 [![marpyter](https://github-readme-stats.vercel.app/api/pin/?username=trungleduc&repo=marpyter&theme=dracula&show_owner=true)](https://github.com/trungleduc/marpyter)
 [![stock](https://github-readme-stats.vercel.app/api/pin/?username=trungleduc&repo=stock-dashboard&theme=dracula&show_owner=true)](https://github.com/trungleduc/stock-dashboard)
+[![ipecharts](https://github-readme-stats.vercel.app/api/pin/?username=trungleduc&repo=ipecharts&theme=dracula&show_owner=true)](https://github.com/trungleduc/ipecharts)
