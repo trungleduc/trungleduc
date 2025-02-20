@@ -1,4 +1,4 @@
-# Duc Trung Le - Scientific Software Engineer @Quantstack
+# Duc Trung Le - Technical Director @Quantstack
 
 ![](https://github-readme-stats.vercel.app/api?username=trungleduc&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trungleduc&theme=dracula&hide_border=true)<br/>
